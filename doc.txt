@@ -1,0 +1,9 @@
+color:
+navy blue:#2596be
+sky:#008aff
+rgba(0,138,255,255)
+#0f2656
+rgba(15,38,86,255)
+
+Background color:
+
